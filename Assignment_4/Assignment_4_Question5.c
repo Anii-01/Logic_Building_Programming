@@ -25,6 +25,7 @@ int CalculateDifference(int iNo)
 		iDifference = isumNonFact - isumFact;
 		return iDifference;
 }
+
 int main()
 {
 	int iValue = 0;
